@@ -1,6 +1,6 @@
 //############################################################################
 //
-// FILE:lab_main.c
+// FILE: lab_main.c
 //
 // TITLE: Lab - Blink two LEDs using SysConfig and CPU timer
 //
